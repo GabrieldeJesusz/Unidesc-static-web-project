@@ -1,0 +1,60 @@
+body{
+    font-family: tahoma, arial, sans-serif;
+    color: antiquewhite;
+    background-color: black;
+
+}
+
+.header-top{
+    display: flex;
+    padding-right: 200px;
+    
+    
+}
+
+.header-top h1{
+    font-style: italic;
+    padding-left: 200px;
+}
+
+.seção{
+    display: flex;
+    padding-left: 200px;
+    padding-right: 160px;
+}
+
+.img{
+    height: 300px;
+    padding: none;
+}
+
+#footer{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.header-top ul{
+    position: right;
+    padding-left: 600px;
+}
+
+.header-top li{
+    display: inline-block;
+    margin-right: 5px;
+    list-style: none;
+}
+
+#footer{
+    display: flex;
+}
+
+#footer-direito{
+    padding-left: 600px;
+}
+#footer-direito ul{
+    display: inline-block;
+}
+#footer-direito li{
+    list-style: none;
+}
+
